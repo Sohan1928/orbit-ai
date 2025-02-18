@@ -43,7 +43,7 @@ const SecondBorder = () => {
         </div>
       </div>
       <div className="mt-20 items-center mx-auto justify-center text-center">
-        <button className="text-[#FFFFFF] text-2xl rounded-full md:px-12 py-7 bg-linear-to-r from-[#2151FE] to-[#851BFF] cursor-pointer">
+        <button className="text-[#FFFFFF] text-2xl rounded-full md:px-12 py-5 bg-linear-to-r from-[#2151FE] to-[#851BFF] cursor-pointer">
           Launch Orbit Agent
         </button>
       </div>

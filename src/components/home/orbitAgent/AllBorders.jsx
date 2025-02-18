@@ -9,7 +9,7 @@ import TickSvg from "./svg/TickSvg";
 
 const AllBorders = () => {
   return (
-    <div className="mt-20 pb-20">
+    <div className="mt-20">
       <div className="flex gap-6">
         <div className="border relative border-[#262346] bg-[#040128] rounded-[20px] shadow-[#262346] shadow-[inset_15px_10px_20px_20px] w-[790px] h-[537px]">
           <div className="top-[28px] left-[320px] absolute z-100">
